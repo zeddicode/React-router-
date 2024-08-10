@@ -1,0 +1,16 @@
+.movie-app{
+    background-color: #f4f4f4;
+    padding: 20px;
+    min-height: 100vh;
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+}
+
+.movie-app h1{
+    color: rgb(210, 192, 226);
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    margin: 20px auto;
+    width: fit-content;
+}
